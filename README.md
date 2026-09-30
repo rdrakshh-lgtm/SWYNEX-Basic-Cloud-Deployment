@@ -42,3 +42,12 @@ Local Project -> Git -> GitHub -> Cloud Hosting -> Public Live URL
 The final submission should include the GitHub documentation repository, live deployed URL, deployment/setup screenshots, and LinkedIn video explanation post.
 
 **SWYNEX Technologies — Task 2: Basic Cloud Deployment**
+## Live Deployment
+
+The website is deployed using GitHub Pages.
+
+**Live URL:**  
+https://rdrakshh-lgtm.github.io/SWYNEX-Basic-Cloud-Deployment/
+
+**GitHub Repository:**  
+https://github.com/rdrakshh-lgtm/SWYNEX-Basic-Cloud-Deployment
